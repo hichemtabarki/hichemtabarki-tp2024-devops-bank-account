@@ -1,0 +1,7 @@
+net\hta2024\customerservices\web\CustomerRestController.class
+net\hta2024\customerservices\entites\Customer$CustomerBuilder.class
+net\hta2024\customerservices\entites\Customer.class
+net\hta2024\customerservices\CustomerServicesApplication.class
+net\hta2024\customerservices\config\GlobalConfig.class
+net\hta2024\customerservices\repositories\CustomerRespository.class
+net\hta2024\customerservices\web\ConfigTestController.class
